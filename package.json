@@ -1,0 +1,26 @@
+{
+  "name": "svelte-postcss",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "postcss-assets": "^6.0.0",
+    "postcss-color-gray": "^5.0.0",
+    "postcss-image-inliner": "^5.0.0",
+    "postcss-load-config": "^4.0.1",
+    "svelte": "^3.49.0",
+    "svelte-preprocess": "^4.10.7",
+    "vite": "^3.0.0"
+  },
+  "dependencies": {
+    "postcss-media-minmax": "^5.0.0"
+  }
+}
