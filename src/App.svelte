@@ -25,6 +25,7 @@
   <!-- <img src="/Camera.png" /> -->
 
   <div class="bg">123</div>
+  <p>На этом проекте отрабатывать PostCSS!!</p>
   <p class="bar">
     Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank"
       >SvelteKit</a
